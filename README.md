@@ -33,3 +33,11 @@ Bộ sưu tập cá nhân các lời giải thuật toán bằng Python, Rust, G
 Repository は独立した解答 file の集まりで、公開 package や共通 test runner はありません。各言語・問題の harness で検証し、file 数や README の例だけから全解答の test 成功を推定しません。
 
 Python、Rust、Go、SQL によるアルゴリズム解答の個人コレクションです。ファイル名は LeetCode の問題番号から始まります。パッケージライブラリではなく学習用の参考実装です。
+
+## License
+
+Solution code is released under the [Apache License 2.0](LICENSE). Problem statements are the property of LeetCode and are excluded; see [NOTICE](NOTICE).
+
+Mã lời giải theo [Apache License 2.0](LICENSE). Đề bài thuộc LeetCode và không nằm trong giấy phép này; xem [NOTICE](NOTICE).
+
+解答コードは [Apache License 2.0](LICENSE) で提供されます。問題文は LeetCode に帰属し対象外です。詳細は [NOTICE](NOTICE) を参照してください。
